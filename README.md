@@ -1,7 +1,7 @@
 <div align="center" style="font-family: monospace;">
 
   <h1>👾 SANTIGRAFIC · SOFTWARE DEVELOPER 👾</h1>
-  <h3>Retro Soft Professional Profile · España</h3>
+  <h3>Retro Soft Professional Profile · Spain</h3>
 
   <img src="https://komarev.com/ghpvc/?username=santigrafic&label=Profile+Views&style=flat-square" />
 
