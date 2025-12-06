@@ -32,17 +32,17 @@ Santigrafic · Clean Code, Retro Soul
 
 <pre>
 Name: David (Santigrafic)
-Role: Backend & Web Developer in Progress
+Role: Frontend & Web Developer in Progress
 Location: Spain
 Profile: Business Logic · Databases · Web Apps · Game Mechanics
 </pre>
 
 <p>
-Desarrollador en formación con orientación al <b>backend y desarrollo web completo</b>, especializado en <b>Java y bases de datos</b>, con experiencia adicional en <b>C#, Laravel y React</b>. Trabajo aplicando <b>metodología Scrum con Jira</b>, enfocándome en código limpio, mantenible y bien estructurado.
+Desarrollador en formación con orientación al <b>frontend y desarrollo web completo</b>, especializado en <b>HTML, CSS y Javascript</b>, con experiencia adicional en <b>C#, Laravel y React</b>. Trabajo aplicando <b>metodología Scrum con Jira</b>, enfocándome en código limpio, mantenible y bien estructurado.
 </p>
 
 <ul>
-  <li>Enfoque principal: Java, C# y bases de datos</li>
+  <li>Enfoque principal: HTML, CSS y javascript</li>
   <li>Desarrollo web moderno con React, Vite y Tailwind</li>
   <li>Backend con Laravel, PHP y Hibernate</li>
   <li>Trabajo en equipo con Scrum y Jira</li>
