@@ -116,10 +116,6 @@ Trabajo en equipo siguiendo metodología Scrum con Jira.
 <h2>📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santigrafic&show_icons=true&theme=default&cache_seconds=86400&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santigrafic&theme=default" />
 </p>
 
