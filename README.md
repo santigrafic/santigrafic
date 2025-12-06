@@ -92,7 +92,7 @@ Desarrollador en formación con orientación al <b>frontend y desarrollo web com
 <h2>🚀 Featured Projects</h2>
 
 <pre>
-[1] 7TH – Seven To Hell / Seven To Heaven
+[1] 7TH – Seven To Hell / Seven To Heaven - JAVA
 ----------------------------------------
 Videojuego desarrollado en Java con:
 - Sistema de login y registro
@@ -102,12 +102,42 @@ Videojuego desarrollado en Java con:
 - Arquitectura MVC
 Technologies: Java · Hibernate · SQL
 
-[2] RetroTime
+[2] Gestión de butacas - JAVA
 -------------
-Proyecto creativo de libros para colorear inspirado en películas de los años 80 y 90.
-IA generativa, diseño y publicación en Amazon KDP.
+Aplicación hecha en Java:
+- Gestión de butacas
+- Butacas libres y ocupadas
+- Sistema de colores
+- Aplicación escalable
+Technologies: Java
 
-[3] Web & Full Stack Projects
+[3] Mini Kanban - HTML, CSS y Javascript
+-------------
+Panel de gestión de tareas:
+- Cambio de usuarios
+- Nombre, descripción, prioridad y tiempos
+- Gestión dinámica
+Technologies: HTML, CSS y Javascript
+
+[4] Gestión de parking - HTML, CSS y Javascript
+-------------
+Panel de gestión de parking:
+- Cambio de administrador
+- Vehículos
+- Tipo de usuarios
+- Tiempos
+- Listado
+Technologies: HTML, CSS y Javascript
+
+[5] Taller de Santa - HTML, CSS y Javascript
+-------------
+Panel de gestión de tareas:
+- Cambio de administrador
+- Almacenamiento de niños
+- Menús dinámicos
+Technologies: HTML, CSS y Javascript
+
+[6] Web & Full Stack Projects
 ----------------------------
 Aplicaciones con React, Vite, Tailwind, Laravel, PHP, JavaScript y bases de datos SQL.
 Trabajo en equipo siguiendo metodología Scrum con Jira.
