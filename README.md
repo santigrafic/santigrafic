@@ -145,14 +145,6 @@ Trabajo en equipo siguiendo metodología Scrum con Jira.
 
 <hr>
 
-<h2>📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santigrafic&theme=default" />
-</p>
-
-<hr>
-
 <h2>📬 Contact</h2>
 
 <ul>
