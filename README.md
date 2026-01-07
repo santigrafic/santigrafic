@@ -69,6 +69,7 @@ Desarrollador en formación con orientación al <b>frontend y desarrollo web com
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
 </p>
 
 <h3>🗄️ Backend & Databases</h3>
