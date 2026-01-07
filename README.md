@@ -87,6 +87,11 @@ Desarrollador en formación con orientación al <b>frontend y desarrollo web com
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
 </p>
 
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white" />
+</p>
+
 <hr>
 
 <h2>🚀 Featured Projects</h2>
