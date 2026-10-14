@@ -3,8 +3,6 @@
   <h1>👾 SANTIGRAFIC · SOFTWARE DEVELOPER 👾</h1>
   <h3>Retro Soft Professional Profile · Spain</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=santigrafic&label=Profile+Views&style=flat-square" />
-
   <br><br>
 
   <img src="https://img.shields.io/badge/Mode-Retro%20Soft-725bff?style=for-the-badge" />
