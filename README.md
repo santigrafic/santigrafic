@@ -36,7 +36,7 @@ Profile: Business Logic · Databases · Web Apps · Game Mechanics
 </pre>
 
 <p>
-Desarrollador en formación con orientación al <b>frontend y desarrollo web completo</b>, especializado en <b>HTML, CSS y Javascript</b>, con experiencia adicional en <b>C#, Laravel y React</b>. Trabajo aplicando <b>metodología Scrum con Jira</b>, enfocándome en código limpio, mantenible y bien estructurado.
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW). Siempre en formación con orientación al <b>frontend y desarrollo web completo</b>, especializado en <b>HTML, CSS y Javascript</b>, con experiencia adicional en <b>C#, Laravel y React</b>. Trabajo aplicando <b>metodología Scrum con Jira</b>, enfocándome en código limpio, mantenible y bien estructurado.
 </p>
 
 <ul>
