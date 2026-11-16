@@ -76,6 +76,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW). Siempre en formación
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 </p>
 
 <h3>⚙️ Herramientas & Metodología</h3>
@@ -96,7 +97,28 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW). Siempre en formación
 <h2>🚀 Featured Projects</h2>
 
 <pre>
-[1] 7TH – Seven To Hell / Seven To Heaven - JAVA
+Fotomatón - PENYA L'AMAGATALL
+----------------------------------------
+Aplicación de fotomatón para eventos:
+- Interfaz gráfica personalizada
+- Integración con cámara
+- Captura de fotografías
+- Aplicación de escritorio
+- Desarrollo orientado a eventos
+Technologies: React · TypeScript · Vite · Electron
+
+El Impostor - FULL STACK
+----------------------------------------
+Videojuego multijugador online desarrollado con:
+- Creación y gestión de salas de juego
+- Sistema de jugadores y roles (impostor y civiles)
+- Asignación aleatoria de palabras
+- Sistema de votaciones en tiempo real
+- Gestión de partidas y puntuaciones
+- Comunicación en tiempo real entre jugadores
+Technologies: React · Vite · Laravel · PHP · MySQL · Pusher
+
+7TH – Seven To Hell / Seven To Heaven - JAVA
 ----------------------------------------
 Videojuego desarrollado en Java con:
 - Sistema de login y registro
@@ -106,7 +128,7 @@ Videojuego desarrollado en Java con:
 - Arquitectura MVC
 Technologies: Java · Hibernate · SQL
 
-[2] Gestión de butacas - JAVA
+Gestión de butacas - JAVA
 -------------
 Aplicación hecha en Java:
 - Gestión de butacas
@@ -115,7 +137,7 @@ Aplicación hecha en Java:
 - Aplicación escalable
 Technologies: Java
 
-[3] Mini Kanban - HTML, CSS y Javascript
+Mini Kanban - HTML, CSS y Javascript
 -------------
 Panel de gestión de tareas:
 - Cambio de usuarios
@@ -123,7 +145,7 @@ Panel de gestión de tareas:
 - Gestión dinámica
 Technologies: HTML, CSS y Javascript
 
-[4] Gestión de parking - HTML, CSS y Javascript
+Gestión de parking - HTML, CSS y Javascript
 -------------
 Panel de gestión de parking:
 - Cambio de administrador
@@ -133,7 +155,7 @@ Panel de gestión de parking:
 - Listado
 Technologies: HTML, CSS y Javascript
 
-[5] Taller de Santa - HTML, CSS y Javascript
+Taller de Santa - HTML, CSS y Javascript
 -------------
 Panel de gestión de tareas:
 - Cambio de administrador
@@ -141,7 +163,7 @@ Panel de gestión de tareas:
 - Menús dinámicos
 Technologies: HTML, CSS y Javascript
 
-[6] Web & Full Stack Projects
+Web & Full Stack Projects
 ----------------------------
 Aplicaciones con React, Vite, Tailwind, Laravel, PHP, JavaScript y bases de datos SQL.
 Trabajo en equipo siguiendo metodología Scrum con Jira.
